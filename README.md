@@ -35,7 +35,7 @@ Below I give some tags for the search engine and for those who prefer doing quic
 
 <!-- _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_ -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevHabit&show_icons=true&include_all_commits=true&theme=material-palenight" alt="DevHabit's github stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevHabit&show_icons=true&include_all_commits=true&theme=material-palenight" alt="DevHabit's github stats" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHabit&layout=compact&theme=material-palenight" />
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,4 +45,4 @@ Below I give some tags for the search engine and for those who prefer doing quic
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
 </a> -->
 
-[![S.ZHeng's Weektime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevHabit)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![S.ZHeng's Weektime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevHabit)](https://github.com/anuraghazra/github-readme-stats) -->
