@@ -1,4 +1,4 @@
-### Hi there, I'm [Zhiheng!](https://master.d2iinznn2llyjy.amplifyapp.com/) 👋
+### Hi there, I'm [Zhiheng!](https://zhihengdev.com/) 👋
 
 <a href="https://www.linkedin.com/in/zhiheng-devhabit">
   <img align="left" alt="Zhiheng Sun | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/linkedin.svg" />
