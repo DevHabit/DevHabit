@@ -6,6 +6,9 @@
 <a href="https://twitter.com/sun_zhiheng">
   <img align="left" alt="Zhiheng Sun | Twitter" width="21px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/twitter.svg" />
 </a>
+<a href="https://www.zhihengdev.com">
+  <img align="left" alt="Zhiheng Sun | Website" width="21px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/globe.png" />
+</a>
 
 <br />
 <br />
